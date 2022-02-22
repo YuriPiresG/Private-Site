@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+hr {
+border-style: dotted none none;
+width: 5%;
+border-color: grey;
+border-width: 5px;
+}
+.intro{
+  padding-bottom: 80px;
+}
+.my-skills{
+  padding-top: 80px;
+}
+
+.top-container {
+  margin-top: 0;
+  background-color: #E4F9F5;
+}
+
+.yuri {
+  padding-top: 50px;
+  width: 300px;
+}
+.dedication{
+  width: 200px;
+  float: left;
+  padding-right: 30px;
+
+}
+.skills{
+  padding-bottom: 100px;
+}
+.brain{
+  width: 200px;
+  float: right;
+  padding-left: 30px;
+}
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+}
+h1 {
+  line-height: 2;
+  color: #66BFBF;
+  font-size: 562.5%;
+  margin: 80px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-weight: normal;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+/*.middle-container {}
+
+.bottom-container {} */
+
+.bottom-cloud {
+  position: absolute;
+  margin: auto;
+}
+
+.top-cloud {
+  position: relative;
+  margin-left: 400px;
+}
+.footer-link{
+  color: #11999E;
+}
+.btn {
+  background: #0099ff;
+  background-image: -webkit-linear-gradient(top, #0099ff, #13699e);
+  background-image: -moz-linear-gradient(top, #0099ff, #13699e);
+  background-image: -ms-linear-gradient(top, #0099ff, #13699e);
+  background-image: -o-linear-gradient(top, #0099ff, #13699e);
+  background-image: linear-gradient(to bottom, #0099ff, #13699e);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  -webkit-box-shadow: 3px 5px 13px #666666;
+  -moz-box-shadow: 3px 5px 13px #666666;
+  box-shadow: 3px 5px 13px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 27px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #e612cd;
+  background-image: -webkit-linear-gradient(top, #e612cd, #058de8);
+  background-image: -moz-linear-gradient(top, #e612cd, #058de8);
+  background-image: -ms-linear-gradient(top, #e612cd, #058de8);
+  background-image: -o-linear-gradient(top, #e612cd, #058de8);
+  background-image: linear-gradient(to bottom, #e612cd, #058de8);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #66BFBF;
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+.copyright{
+  color: #EAF6F6;
+}
+.footer-link{
+color: #11999E;
+}
